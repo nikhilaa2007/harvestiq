@@ -8,7 +8,8 @@ https://nikhilaa2007.github.io/harvestiq
 
 ## Features
 - Crop recommendation based on soil conditions
-- Soil health analysis
+- Soil health analysis (N, P, K, moisture, pH)
+- Multilingual interface
 - Weather and environmental insights
 - Farmer-friendly UI
 - Agricultural information dashboard
@@ -37,3 +38,4 @@ Gen AI Hackathon Project
 ## GitHub Repository
 
 https://github.com/nikhilaa2007/harvestiq
+
