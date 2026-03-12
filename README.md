@@ -3,6 +3,9 @@
 HarvestIQ is an AI-powered agriculture assistant developed during a Gen AI Hackathon.  
 The platform helps farmers make better farming decisions using environmental and soil data.
 
+## Live Demo
+https://nikhilaa2007.github.io/harvestiq
+
 ## Features
 - Crop recommendation based on soil conditions
 - Soil health analysis
@@ -32,4 +35,5 @@ The platform helps farmers make better farming decisions using environmental and
 Gen AI Hackathon Project
 
 ## GitHub Repository
+
 https://github.com/nikhilaa2007/harvestiq
